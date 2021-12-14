@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>C2 Backup</title>
-        <meta property="og:image" content="https://c2.synology.com/media/img/icon/backup@2x.png" />
+        <meta property="og:image" content="/c2_backup_256.svg" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
