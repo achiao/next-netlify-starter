@@ -6,18 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-      <!-- HTML Meta Tags -->
 <title>C2 Backup</title>
 <meta name="description" content="Back up all your Windows devices to the cloud and never lose a file again.">
 
-<!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://backup.eu.c2test.synology.com/on-premises/endpoint/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="C2 Backup">
 <meta property="og:description" content="Back up all your Windows devices to the cloud and never lose a file again.">
 <meta property="og:image" content="https://c2.synology.com/media/img/icon/backup@2x.png">
 
-<!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="">
 <meta property="twitter:url" content="https://backup.eu.c2test.synology.com/on-premises/endpoint/">
