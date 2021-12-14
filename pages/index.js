@@ -11,7 +11,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="C2 Backup" />
         <meta property="og:description" content="" />
-        <meta property="og:image" content="https://happy-varahamihira-f67136.netlify.app/c2_backup_256.svg" />
+        <meta property="og:image" content="https://happy-varahamihira-f67136.netlify.app/c2_backup.png" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
