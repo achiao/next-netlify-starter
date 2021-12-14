@@ -7,7 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>C2 Backup</title>
-        <meta property="og:image" content="/c2_backup_256.svg" />
+        <meta property="og:url" content="https://happy-varahamihira-f67136.netlify.app/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="C2 Backup" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="https://happy-varahamihira-f67136.netlify.app/c2_backup_256.svg" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
